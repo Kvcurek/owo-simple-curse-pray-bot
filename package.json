@@ -1,0 +1,11 @@
+{
+"name": "owo-simple-curse-pray-bot",    
+"author": { 
+    "name": "Kvcurek",
+    "url": "https://discord.com/users/927328599000875088"
+},
+"version": "1.0.0",
+"dependencies": {
+"discord.js-selfbot-v13": "^2.8.9"
+    }
+}
