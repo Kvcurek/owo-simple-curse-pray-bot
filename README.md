@@ -14,7 +14,7 @@ npm install .
 npx ts-node .
 ```
 5) Enjoy! :D
-#### 🕵️‍♂️ How to get DISCORD TOKEN to run bot? This is easy, click **`ctrl + shift + i`** in discord window and paste this code in console.
+#### 🕵️‍♂️ How to get DISCORD TOKEN to run bot? This is easy, click **`ctrl + shift + i`** in discord window and paste this code to console.
 ```js
 window.webpackChunkdiscord_app.push([
   [Math.random()],
