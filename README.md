@@ -1,0 +1,1 @@
+# owo-simple-curse-pray-bot
